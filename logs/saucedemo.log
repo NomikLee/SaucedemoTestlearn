@@ -1,0 +1,42 @@
+2025-03-03 14:04:01:INFO:*************Test_01_Admin_Login*************
+2025-03-03 14:04:01:INFO:*************verification of admin login page title*************
+2025-03-03 14:04:02:INFO:*************test_title_verification title matched*************
+2025-03-03 14:04:03:INFO:*************test_valid_admin_login started*************
+2025-03-03 14:04:04:INFO:*************dashobard text found*************
+2025-03-03 14:04:04:INFO:*************test_invalid_admin_login started*************
+2025-03-03 14:04:05:INFO:*************test_invalid_admin_login error messages matched*************
+2025-03-03 15:10:20:INFO:*************Test_01_Admin_Login*************
+2025-03-03 15:10:20:INFO:*************verification of admin login page title*************
+2025-03-03 15:10:21:INFO:*************test_title_verification title matched*************
+2025-03-03 15:10:21:INFO:*************test_valid_admin_login started*************
+2025-03-03 15:10:22:INFO:*************dashobard text found*************
+2025-03-03 15:10:23:INFO:*************test_invalid_admin_login started*************
+2025-03-03 15:10:24:INFO:*************test_invalid_admin_login error messages matched*************
+2025-03-03 15:12:05:INFO:*************Test_01_Admin_Login*************
+2025-03-03 15:12:05:INFO:*************verification of admin login page title*************
+2025-03-03 15:12:06:INFO:*************test_title_verification title matched*************
+2025-03-03 15:12:07:INFO:*************test_valid_admin_login started*************
+2025-03-03 15:12:08:INFO:*************dashobard text found*************
+2025-03-03 15:12:09:INFO:*************test_invalid_admin_login started*************
+2025-03-03 15:12:11:INFO:*************test_invalid_admin_login error messages matched*************
+2025-03-03 15:24:15:INFO:*************Test_01_Admin_Login*************
+2025-03-03 15:24:15:INFO:*************verification of admin login page title*************
+2025-03-03 15:24:16:INFO:*************test_title_verification title matched*************
+2025-03-03 15:24:16:INFO:*************test_valid_admin_login started*************
+2025-03-03 15:24:17:INFO:*************dashobard text found*************
+2025-03-03 15:24:18:INFO:*************test_invalid_admin_login started*************
+2025-03-03 15:24:19:INFO:*************test_invalid_admin_login error messages matched*************
+2025-03-03 15:38:20:INFO:*************Test_01_Admin_Login*************
+2025-03-03 15:38:20:INFO:*************verification of admin login page title*************
+2025-03-03 15:38:21:INFO:*************test_title_verification title matched*************
+2025-03-03 15:38:22:INFO:*************test_valid_admin_login started*************
+2025-03-03 15:38:23:INFO:*************dashobard text found*************
+2025-03-03 15:38:23:INFO:*************test_invalid_admin_login started*************
+2025-03-03 15:38:24:INFO:*************test_invalid_admin_login error messages matched*************
+2025-03-03 15:39:53:INFO:*************Test_01_Admin_Login*************
+2025-03-03 15:39:53:INFO:*************verification of admin login page title*************
+2025-03-03 15:39:54:INFO:*************test_title_verification title matched*************
+2025-03-03 15:39:55:INFO:*************test_valid_admin_login started*************
+2025-03-03 15:39:56:INFO:*************dashobard text found*************
+2025-03-03 15:39:57:INFO:*************test_invalid_admin_login started*************
+2025-03-03 15:39:58:INFO:*************test_invalid_admin_login error messages matched*************

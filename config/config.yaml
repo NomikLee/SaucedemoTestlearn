@@ -1,0 +1,5 @@
+admin_login_info:
+  admin_page_url: "https://www.saucedemo.com/"
+  username: "standard_user"
+  password: "secret_sauce"
+  invalid_username: "errorUsername"
