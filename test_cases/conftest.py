@@ -36,7 +36,7 @@ def setup(browser):
 ################ for pytest html reports #############
 def pytest_configure(config):
     config.stash[metadata_key]['Project Name'] = "Test Saucedemo Login"
-    config.stash[metadata_key]['Test Module Name'] = "Admin Login Tests"
+    config.stash[metadata_key]['Test Modules Name'] = "Admin Login Tests"
     config.stash[metadata_key]['Tester Name'] = "Nomik"
 
 @pytest.mark.optionalhook
