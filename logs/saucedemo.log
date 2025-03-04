@@ -40,3 +40,10 @@
 2025-03-03 15:39:56:INFO:*************dashobard text found*************
 2025-03-03 15:39:57:INFO:*************test_invalid_admin_login started*************
 2025-03-03 15:39:58:INFO:*************test_invalid_admin_login error messages matched*************
+2025-03-04 14:01:26:INFO:*************Test_01_Admin_Login*************
+2025-03-04 14:01:26:INFO:*************verification of admin login page title*************
+2025-03-04 14:01:27:INFO:*************test_title_verification title matched*************
+2025-03-04 14:01:28:INFO:*************test_valid_admin_login started*************
+2025-03-04 14:01:29:INFO:*************dashobard text found*************
+2025-03-04 14:01:30:INFO:*************test_invalid_admin_login started*************
+2025-03-04 14:01:32:INFO:*************test_invalid_admin_login error messages matched*************
