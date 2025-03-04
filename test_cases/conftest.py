@@ -33,7 +33,7 @@ def setup(browser):
     yield driver
     driver.quit()
 
-################ for pytest html reports #############
+################ for pytest html reports ##############
 def pytest_configure(config):
     config.stash[metadata_key]['Project Name'] = "Test Saucedemo Login"
     config.stash[metadata_key]['Test Modules Name'] = "Admin Login Tests"
