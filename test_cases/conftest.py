@@ -39,7 +39,7 @@ def pytest_configure(config):
     config.stash[metadata_key]['Test Modules Name'] = "Admin Login Tests"
     config.stash[metadata_key]['Tester Name'] = "Nomik"
 
-@pytest.mark.optionalhook
+@pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME", None)
     metadata.pop("Plugins", None)
